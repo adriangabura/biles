@@ -1,0 +1,10 @@
+<IfModule mod_rewrite.c>
+    RewriteEngine on
+    RewriteCond $1 !^(index\.php|img|images|uploads|robots\.txt|js|css)
+    RewriteRule ^(.*)$ ./index.php?/$1 [L]
+</IfModule>
+
+<Files ~ "\.(htm|html|css|js|php)$">
+   AddDefaultCharset UTF-8
+   DefaultLanguage en-US
+</Files>

@@ -1,0 +1,8 @@
+[20-Jan-2015 14:11:13 Europe/Chisinau] PHP Parse error:  syntax error, unexpected '{' in /home/a10073/public_html/reparatiemd/application/frontend/views/home.php on line 247
+[23-Jan-2015 18:32:03 Europe/Chisinau] PHP Parse error:  syntax error, unexpected T_STRING, expecting '(' in /home/a10073/public_html/reparatiemd/application/frontend/views/home.php on line 215
+[23-Jan-2015 18:32:56 Europe/Chisinau] PHP Parse error:  syntax error, unexpected T_STRING, expecting '(' in /home/a10073/public_html/reparatiemd/application/frontend/views/home.php on line 215
+[23-Jan-2015 18:33:09 Europe/Chisinau] PHP Parse error:  syntax error, unexpected T_STRING, expecting '(' in /home/a10073/public_html/reparatiemd/application/frontend/views/home.php on line 215
+[28-Jan-2015 18:07:11 Europe/Chisinau] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_VARIABLE or '$' in /home/a10073/public_html/reparatiemd/application/frontend/views/home.php on line 328
+[28-Jan-2015 18:07:15 Europe/Chisinau] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_VARIABLE or '$' in /home/a10073/public_html/reparatiemd/application/frontend/views/home.php on line 328
+[28-Jan-2015 18:07:19 Europe/Chisinau] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_VARIABLE or '$' in /home/a10073/public_html/reparatiemd/application/frontend/views/home.php on line 328
+[28-Jan-2015 18:07:20 Europe/Chisinau] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_VARIABLE or '$' in /home/a10073/public_html/reparatiemd/application/frontend/views/home.php on line 328

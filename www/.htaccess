@@ -1,0 +1,11 @@
+<IfModule mod_rewrite.c>
+    RewriteEngine on
+    RewriteCond $1 !^(index\.php|assets|lights|uploads|html|robots\.txt|sitemap\.xml|js|css|wmail_e272287702c309fe\.html)
+    RewriteRule ^(.*)$ ./index.php?/$1 [L]
+</IfModule>
+
+<Files ~ "\.(htm|html|css|js|php)$">
+   AddDefaultCharset UTF-8
+</Files>
+RewriteCond %{HTTP_HOST} ^www\.(.+) [NC]
+RewriteRule ^(.*) http://%1/$1 [R=301,NE,L]
